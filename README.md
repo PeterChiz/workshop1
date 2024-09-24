@@ -25,11 +25,11 @@
    ```
 4. Clone repository này:
    ```
-   git clone https://github.com/YourUsername/amplify-flutter-workshop.git
+   git clone https://github.com/PeterChiz/workshop1.git
    ```
 5. Di chuyển vào thư mục dự án và cài đặt các dependencies:
    ```
-   cd amplify-flutter-workshop
+   cd workshop1
    flutter pub get
    ```
 
@@ -53,7 +53,3 @@
    ```
    flutter run
    ```
-
-## Cấu trúc dự án
-
-Mô tả cấu trúc thư mục và file chính của dự án ở đây.
