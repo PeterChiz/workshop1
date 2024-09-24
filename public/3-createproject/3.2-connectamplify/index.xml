@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connect to AWS Amplify on AWS System Manager</title>
-    <link>//localhost:55916/3-createproject/3.2-connectamplify/</link>
+    <link>/3-createproject/3.2-connectamplify/</link>
     <description>Recent content in Connect to AWS Amplify on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:55916/3-createproject/3.2-connectamplify/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/3-createproject/3.2-connectamplify/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

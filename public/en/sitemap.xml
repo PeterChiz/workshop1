@@ -2,364 +2,364 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:55916/4-addauth/4.1-addauth/</loc>
+    <loc>/4-addauth/4.1-addauth/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/4-addauth/4.1-addauth/"
+                href="/vi/4-addauth/4.1-addauth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/4-addauth/4.1-addauth/"
+                href="/4-addauth/4.1-addauth/"
                 />
   </url><url>
-    <loc>//localhost:55916/6-buildapp/6.1-createprogram/</loc>
+    <loc>/6-buildapp/6.1-createprogram/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/6-buildapp/6.1-createprogram/"
+                href="/vi/6-buildapp/6.1-createprogram/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/6-buildapp/6.1-createprogram/"
+                href="/6-buildapp/6.1-createprogram/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.1-setupflutter/2.1.1-windown/</loc>
+    <loc>/2-prerequiste/2.1-setupflutter/2.1.1-windown/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.1-setupflutter/2.1.1-windown/"
+                href="/vi/2-prerequiste/2.1-setupflutter/2.1.1-windown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.1-setupflutter/2.1.1-windown/"
+                href="/2-prerequiste/2.1-setupflutter/2.1.1-windown/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.2-settingandroidstudio/2.2.1-windown/</loc>
+    <loc>/2-prerequiste/2.2-settingandroidstudio/2.2.1-windown/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.2-settingandroidstudio/2.2.1-windown/"
+                href="/vi/2-prerequiste/2.2-settingandroidstudio/2.2.1-windown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.2-settingandroidstudio/2.2.1-windown/"
+                href="/2-prerequiste/2.2-settingandroidstudio/2.2.1-windown/"
                 />
   </url><url>
-    <loc>//localhost:55916/1-introduce/1.2-target/</loc>
+    <loc>/2-prerequiste/2.1-setupflutter/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/1-introduce/1.2-target/"
+                href="/vi/2-prerequiste/2.1-setupflutter/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/1-introduce/1.2-target/"
+                href="/2-prerequiste/2.1-setupflutter/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.1-setupflutter/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.1-setupflutter/"
+                href="/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.1-setupflutter/"
+                href="/"
                 />
   </url><url>
-    <loc>//localhost:55916/</loc>
+    <loc>/1-introduce/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/"
+                href="/vi/1-introduce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/"
+                href="/1-introduce/"
                 />
   </url><url>
-    <loc>//localhost:55916/1-introduce/</loc>
+    <loc>/1-introduce/1.1-anf/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/1-introduce/"
+                href="/vi/1-introduce/1.1-anf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/1-introduce/"
+                href="/1-introduce/1.1-anf/"
                 />
   </url><url>
-    <loc>//localhost:55916/1-introduce/1.1-anf/</loc>
+    <loc>/2-prerequiste/2.1-setupflutter/2.1.2-macos/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/1-introduce/1.1-anf/"
+                href="/vi/2-prerequiste/2.1-setupflutter/2.1.2-macos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/1-introduce/1.1-anf/"
+                href="/2-prerequiste/2.1-setupflutter/2.1.2-macos/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.1-setupflutter/2.1.2-macos/</loc>
+    <loc>/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.1-setupflutter/2.1.2-macos/"
+                href="/vi/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.1-setupflutter/2.1.2-macos/"
+                href="/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/</loc>
+    <loc>/1-introduce/1.2-target/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/"
+                href="/vi/1-introduce/1.2-target/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/"
+                href="/1-introduce/1.2-target/"
                 />
   </url><url>
-    <loc>//localhost:55916/4-addauth/4.2-amplifyauth/</loc>
+    <loc>/4-addauth/4.2-amplifyauth/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/4-addauth/4.2-amplifyauth/"
+                href="/vi/4-addauth/4.2-amplifyauth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/4-addauth/4.2-amplifyauth/"
+                href="/4-addauth/4.2-amplifyauth/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.2-settingandroidstudio/</loc>
+    <loc>/2-prerequiste/2.2-settingandroidstudio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.2-settingandroidstudio/"
+                href="/vi/2-prerequiste/2.2-settingandroidstudio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.2-settingandroidstudio/"
+                href="/2-prerequiste/2.2-settingandroidstudio/"
                 />
   </url><url>
-    <loc>//localhost:55916/6-buildapp/6.2-interface/</loc>
+    <loc>/6-buildapp/6.2-interface/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/6-buildapp/6.2-interface/"
+                href="/vi/6-buildapp/6.2-interface/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/6-buildapp/6.2-interface/"
+                href="/6-buildapp/6.2-interface/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/</loc>
+    <loc>/2-prerequiste/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/"
+                href="/vi/2-prerequiste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/"
+                href="/2-prerequiste/"
                 />
   </url><url>
-    <loc>//localhost:55916/3-createproject/3.1-pubspecandpath/</loc>
+    <loc>/3-createproject/3.1-pubspecandpath/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/3-createproject/3.1-pubspecandpath/"
+                href="/vi/3-createproject/3.1-pubspecandpath/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/3-createproject/3.1-pubspecandpath/"
+                href="/3-createproject/3.1-pubspecandpath/"
                 />
   </url><url>
-    <loc>//localhost:55916/3-createproject/3.2-connectamplify/</loc>
+    <loc>/3-createproject/3.2-connectamplify/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/3-createproject/3.2-connectamplify/"
+                href="/vi/3-createproject/3.2-connectamplify/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/3-createproject/3.2-connectamplify/"
+                href="/3-createproject/3.2-connectamplify/"
                 />
   </url><url>
-    <loc>//localhost:55916/3-createproject/</loc>
+    <loc>/3-createproject/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/3-createproject/"
+                href="/vi/3-createproject/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/3-createproject/"
+                href="/3-createproject/"
                 />
   </url><url>
-    <loc>//localhost:55916/2-prerequiste/2.3-settingamplifycli/</loc>
+    <loc>/2-prerequiste/2.3-settingamplifycli/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/2-prerequiste/2.3-settingamplifycli/"
+                href="/vi/2-prerequiste/2.3-settingamplifycli/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/2-prerequiste/2.3-settingamplifycli/"
+                href="/2-prerequiste/2.3-settingamplifycli/"
                 />
   </url><url>
-    <loc>//localhost:55916/4-addauth/4.3-screenauth/</loc>
+    <loc>/4-addauth/4.3-screenauth/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/4-addauth/4.3-screenauth/"
+                href="/vi/4-addauth/4.3-screenauth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/4-addauth/4.3-screenauth/"
+                href="/4-addauth/4.3-screenauth/"
                 />
   </url><url>
-    <loc>//localhost:55916/4-addauth/</loc>
+    <loc>/4-addauth/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/4-addauth/"
+                href="/vi/4-addauth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/4-addauth/"
+                href="/4-addauth/"
                 />
   </url><url>
-    <loc>//localhost:55916/4-addauth/4.4-profileuser/</loc>
+    <loc>/4-addauth/4.4-profileuser/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/4-addauth/4.4-profileuser/"
+                href="/vi/4-addauth/4.4-profileuser/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/4-addauth/4.4-profileuser/"
+                href="/4-addauth/4.4-profileuser/"
                 />
   </url><url>
-    <loc>//localhost:55916/5-addamplifyapi/5.1-addapi/</loc>
+    <loc>/5-addamplifyapi/5.1-addapi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/5-addamplifyapi/5.1-addapi/"
+                href="/vi/5-addamplifyapi/5.1-addapi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/5-addamplifyapi/5.1-addapi/"
+                href="/5-addamplifyapi/5.1-addapi/"
                 />
   </url><url>
-    <loc>//localhost:55916/5-addamplifyapi/</loc>
+    <loc>/5-addamplifyapi/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/5-addamplifyapi/"
+                href="/vi/5-addamplifyapi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/5-addamplifyapi/"
+                href="/5-addamplifyapi/"
                 />
   </url><url>
-    <loc>//localhost:55916/5-addamplifyapi/5.2-adddata/</loc>
+    <loc>/5-addamplifyapi/5.2-adddata/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/5-addamplifyapi/5.2-adddata/"
+                href="/vi/5-addamplifyapi/5.2-adddata/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/5-addamplifyapi/5.2-adddata/"
+                href="/5-addamplifyapi/5.2-adddata/"
                 />
   </url><url>
-    <loc>//localhost:55916/5-addamplifyapi/5.3-upfeature/</loc>
+    <loc>/5-addamplifyapi/5.3-upfeature/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/5-addamplifyapi/5.3-upfeature/"
+                href="/vi/5-addamplifyapi/5.3-upfeature/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/5-addamplifyapi/5.3-upfeature/"
+                href="/5-addamplifyapi/5.3-upfeature/"
                 />
   </url><url>
-    <loc>//localhost:55916/6-buildapp/</loc>
+    <loc>/6-buildapp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/6-buildapp/"
+                href="/vi/6-buildapp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/6-buildapp/"
+                href="/6-buildapp/"
                 />
   </url><url>
-    <loc>//localhost:55916/7-clean/</loc>
+    <loc>/7-clean/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/7-clean/"
+                href="/vi/7-clean/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/7-clean/"
+                href="/7-clean/"
                 />
   </url><url>
-    <loc>//localhost:55916/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/categories/"
+                href="/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>//localhost:55916/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:55916/vi/tags/"
+                href="/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:55916/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

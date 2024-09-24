@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>For mac OS on AWS System Manager</title>
-    <link>//localhost:55916/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/</link>
+    <link>/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/</link>
     <description>Recent content in For mac OS on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:55916/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/2-prerequiste/2.2-settingandroidstudio/2.2.2-macos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Màn hình xác thực ứng dụng bằng Amplify Authenticator on AWS System Manager</title>
-    <link>//localhost:55916/vi/4-addauth/4.3-screenauth/</link>
+    <link>/vi/4-addauth/4.3-screenauth/</link>
     <description>Recent content in Màn hình xác thực ứng dụng bằng Amplify Authenticator on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>vi</language>
-    <atom:link href="//localhost:55916/vi/4-addauth/4.3-screenauth/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/vi/4-addauth/4.3-screenauth/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
