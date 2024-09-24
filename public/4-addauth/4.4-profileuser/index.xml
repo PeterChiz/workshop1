@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>View information about registered users through Amplify Auth on the AWS Console on AWS System Manager</title>
-    <link>/4-addauth/4.4-profileuser/</link>
+    <link>http://localhost:1313/workshop1/4-addauth/4.4-profileuser/</link>
     <description>Recent content in View information about registered users through Amplify Auth on the AWS Console on AWS System Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/4-addauth/4.4-profileuser/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/workshop1/4-addauth/4.4-profileuser/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
