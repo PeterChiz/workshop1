@@ -1,0 +1,12 @@
+/* assets/css/custom.css hoặc static/css/custom.css */
+.video-container {
+  width: 300px;  /* Chiều rộng cố định 300px */
+  margin: 0 auto;  /* Căn giữa container */
+  padding: 20px 0;  /* Thêm khoảng cách trên dưới */
+}
+
+.responsive-video {
+  width: 100%;  /* Đảm bảo video lấp đầy container */
+  height: auto;  /* Chiều cao tự động điều chỉnh để giữ tỷ lệ khung hình */
+  display: block;  /* Loại bỏ khoảng trống dưới video */
+}
